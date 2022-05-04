@@ -1,4 +1,3 @@
-
 variable "default_folder_id" { //your folder-id
   default = "<your folder-id>"
 }
